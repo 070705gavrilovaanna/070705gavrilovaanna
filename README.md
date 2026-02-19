@@ -25,7 +25,6 @@
     <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Seaborn-4B8BBE" />
     <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
 </div>
 
