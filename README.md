@@ -11,7 +11,7 @@
 | Финансовые временные ряды | [Прогнозирование движений на крипторынке](https://github.com/070705gavrilovaanna/DRW-crypto-market-prediction) |
 | Временные ряды (метеоданные) | [Прогнозирование фронтов на Байкале](https://github.com/070705gavrilovaanna/baikal_fronts_prediction) |
 | Компьютерное зрение (CNN, ResNet) | [Классификация клеток крови](https://github.com/070705gavrilovaanna/blood_cell_cancer_classification), [Классификация опухолей мозга](https://github.com/070705gavrilovaanna/brain_tumour_classification) |
-| NLP (BERT, LSTM, GPT-2) | [Question Answering](https://github.com/070705gavrilovaanna/question_answering), [Генерация текста](https://github.com/070705gavrilovaanna/text_generation_lstm_gpt2) |
+| NLP (BERT, LSTM, GPT-2) | [Question Answering](https://github.com/070705gavrilovaanna/question_answering), [Генерация текста](https://github.com/070705gavrilovaanna/text_generation) |
 | Ансамблевые методы (XGBoost, RandomForest) | [Прогнозирование стоимости недвижимости](https://github.com/070705gavrilovaanna/flat_price_prediction), [Прогнозирование чемпионата гимнастики](https://github.com/070705gavrilovaanna/rg_championship_2026_prediction) |
 | Feature Engineering | [Прогнозирование чемпионата гимнастики](https://github.com/070705gavrilovaanna/rg_championship_2026_prediction), [Прогнозирование арбитражных дел](https://github.com/070705gavrilovaanna/spb_court_cases_predictions) |
 | Мультиклассовая классификация | [Прогнозирование арбитражных дел](https://github.com/070705gavrilovaanna/spb_court_cases_predictions) |
@@ -35,15 +35,15 @@
 
 ## Проекты
 
-- [Прогнозирование движений на криптовалютном рынке](https://github.com/070705gavrilovaanna/DRW-crypto-market-prediction) — работа с 780+ признаками, временные ряды
-- [Прогнозирование стоимости недвижимости](https://github.com/070705gavrilovaanna/flat_price_prediction) — сравнение LinearRegression, XGBoost, PyTorch NN (R²=0.999)
-- [Прогнозирование результатов чемпионата по художественной гимнастике](https://github.com/070705gavrilovaanna/rg_championship_2026_prediction) — предсказание топ-5 и баллов на ЧР-2026
-- [Классификация клеток крови](https://github.com/070705gavrilovaanna/blood_cell_cancer_classification) — определение типа клеток при лейкозе (F1=0.998)
-- [Классификация опухолей мозга](https://github.com/070705gavrilovaanna/brain_tumour_classification) — обнаружение опухолей на МРТ (accuracy 88.2%)
-- [Question Answering with BERT](https://github.com/070705gavrilovaanna/question_answering) — поиск ответов на вопросы по тексту (SQuAD)
-- [Генерация текста с LSTM и GPT-2](https://github.com/070705gavrilovaanna/text_generation_lstm_gpt2) — сравнение архитектур на корпусе цитат
-- [Прогнозирование исхода арбитражных дел](https://github.com/070705gavrilovaanna/spb_court_cases_predictions) — мультиклассовая классификация (accuracy 59%)
-- [Прогнозирование атмосферных фронтов на Байкале](https://github.com/070705gavrilovaanna/baikal_fronts_prediction) — метеоданные, бинарная классификация (accuracy 74%)
+- [Прогнозирование движений на криптовалютном рынке](https://github.com/070705gavrilovaanna/DRW-crypto-market-prediction) - работа с 780+ признаками, временные ряды
+- [Прогнозирование стоимости недвижимости](https://github.com/070705gavrilovaanna/flat_price_prediction) - сравнение LinearRegression, XGBoost, PyTorch NN (R²=0.999)
+- [Прогнозирование результатов чемпионата по художественной гимнастике](https://github.com/070705gavrilovaanna/rg_championship_2026_prediction) - предсказание топ-5 и баллов на ЧР-2026
+- [Классификация клеток крови](https://github.com/070705gavrilovaanna/blood_cell_cancer_classification) - определение типа клеток при лейкозе (F1=0.998)
+- [Классификация опухолей мозга](https://github.com/070705gavrilovaanna/brain_tumour_classification) - обнаружение опухолей на МРТ (accuracy 88.2%)
+- [Question Answering with BERT](https://github.com/070705gavrilovaanna/question_answering) - поиск ответов на вопросы по тексту (SQuAD)
+- [Генерация текста с LSTM и GPT-2](https://github.com/070705gavrilovaanna/text_generation) - сравнение архитектур на корпусе цитат
+- [Прогнозирование исхода арбитражных дел](https://github.com/070705gavrilovaanna/spb_court_cases_predictions) - мультиклассовая классификация (accuracy 59%)
+- [Прогнозирование атмосферных фронтов на Байкале](https://github.com/070705gavrilovaanna/baikal_fronts_prediction) - метеоданные, бинарная классификация (accuracy 74%)
 
 ---
 **Контакты:**
