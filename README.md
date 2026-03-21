@@ -40,7 +40,7 @@
 
 ## Проекты
 
-- [Суммаризация новостных текстов с MBart и T5](https://github.com/070705gavrilovaanna/news_summarization) - сравнение моделей суммаризации, иерархическая обработка длинных текстов, Telegram-бот (MBart: сжатие до 10x)
+- [Суммаризация новостных текстов с MBart и T5](https://github.com/070705gavrilovaanna/text_summarization) - сравнение моделей суммаризации, иерархическая обработка длинных текстов, Telegram-бот (MBart: сжатие до 10x)
 - [Классификация клеток крови](https://github.com/070705gavrilovaanna/blood_cell_cancer_classification) - определение типа клеток при лейкозе (F1=0.998)
 - [Классификация опухолей мозга](https://github.com/070705gavrilovaanna/brain_tumour_classification) - обнаружение опухолей на МРТ (accuracy 88.2%)
 - [Question Answering with BERT](https://github.com/070705gavrilovaanna/question_answering) - поиск ответов на вопросы по тексту (SQuAD)
