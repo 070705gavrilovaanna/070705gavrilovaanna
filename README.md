@@ -11,7 +11,7 @@
 |-------|--------|
 | **Глубокое обучение** | |
 | Компьютерное зрение (CNN, ResNet) | [Классификация клеток крови](https://github.com/070705gavrilovaanna/blood_cell_cancer_classification), [Классификация опухолей мозга](https://github.com/070705gavrilovaanna/brain_tumour_classification) |
-| NLP (BERT, LSTM, GPT-2) | [Question Answering](https://github.com/070705gavrilovaanna/question_answering), [Генерация текста](https://github.com/070705gavrilovaanna/text_generation) |
+| NLP (BERT, LSTM, GPT-2, MBart, T5) | [Question Answering](https://github.com/070705gavrilovaanna/question_answering), [Генерация текста](https://github.com/070705gavrilovaanna/text_generation), [Суммаризация новостных текстов](https://github.com/070705gavrilovaanna/news_summarization) |
 | **Машинное обучение** | |
 | Ансамблевые методы (XGBoost, RandomForest) | [Прогнозирование стоимости недвижимости](https://github.com/070705gavrilovaanna/flat_price), [Прогнозирование чемпионата гимнастики](https://github.com/070705gavrilovaanna/rg_championship_2026_prediction) |
 | Финансовые временные ряды | [Прогнозирование движений на крипторынке](https://github.com/070705gavrilovaanna/DRW-crypto-market-prediction) |
@@ -33,12 +33,14 @@
     <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Seaborn-4B8BBE" />
     <img src="https://img.shields.io/badge/Transformers-FFD21E?logo=huggingface&logoColor=black" />
+    <img src="https://img.shields.io/badge/LangChain-1C3C3C" />
     <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
 </div>
 
 ## Проекты
 
+- [Суммаризация новостных текстов с MBart и T5](https://github.com/070705gavrilovaanna/news_summarization) - сравнение моделей суммаризации, иерархическая обработка длинных текстов, Telegram-бот (MBart: сжатие до 10x)
 - [Классификация клеток крови](https://github.com/070705gavrilovaanna/blood_cell_cancer_classification) - определение типа клеток при лейкозе (F1=0.998)
 - [Классификация опухолей мозга](https://github.com/070705gavrilovaanna/brain_tumour_classification) - обнаружение опухолей на МРТ (accuracy 88.2%)
 - [Question Answering with BERT](https://github.com/070705gavrilovaanna/question_answering) - поиск ответов на вопросы по тексту (SQuAD)
@@ -53,4 +55,3 @@
 **Контакты:**
 - **Email:** wandeirngs@gmail.com
 - **GitHub:** [github.com/070705gavrilovaanna](https://github.com/070705gavrilovaanna)
-- **Telegram:** @user6044
