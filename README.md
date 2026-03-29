@@ -5,21 +5,19 @@
 ## Цель
 Развитие в области анализа данных, машинного и глубокого обучения через решение практических задач. Ищу возможность применять навыки работы с данными в реальных проектах.
 
-
 ## Навыки
 | Навык | Проект |
 |-------|--------|
 | **Глубокое обучение** | |
 | Компьютерное зрение (CNN, ResNet) | [Классификация клеток крови](https://github.com/070705gavrilovaanna/blood_cell_cancer_classification), [Классификация опухолей мозга](https://github.com/070705gavrilovaanna/brain_tumour_classification) |
-| NLP (BERT, LSTM, GPT-2, MBart, T5) | [Question Answering](https://github.com/070705gavrilovaanna/question_answering), [Генерация текста](https://github.com/070705gavrilovaanna/text_generation), [Суммаризация новостных текстов](https://github.com/070705gavrilovaanna/text_summarization) |
+| NLP (BERT, LSTM, GPT-2, MBart, T5) | [Question Answering](https://github.com/070705gavrilovaanna/question_answering), [Генерация текста](https://github.com/070705gavrilovaanna/text_generation), [Суммаризация новостных текстов](https://github.com/070705gavrilovaanna/text_summarization), [Классификация эмоций в тексте](https://github.com/070705gavrilovaanna/emotions_classification) |
 | **Машинное обучение** | |
 | Ансамблевые методы (XGBoost, RandomForest) | [Прогнозирование стоимости недвижимости](https://github.com/070705gavrilovaanna/flat_price), [Прогнозирование чемпионата гимнастики](https://github.com/070705gavrilovaanna/rg_championship_2026_prediction) |
 | Финансовые временные ряды | [Прогнозирование движений на крипторынке](https://github.com/070705gavrilovaanna/DRW-crypto-market-prediction) |
 | Временные ряды (метеоданные) | [Прогнозирование фронтов на Байкале](https://github.com/070705gavrilovaanna/baikal_fronts_prediction) |
 | Feature Engineering | [Прогнозирование чемпионата гимнастики](https://github.com/070705gavrilovaanna/rg_championship_2026_prediction), [Прогнозирование арбитражных дел](https://github.com/070705gavrilovaanna/spb_court_cases_predictions) |
-| Мультиклассовая классификация | [Прогнозирование арбитражных дел](https://github.com/070705gavrilovaanna/spb_court_cases_predictions) |
+| Мультиклассовая классификация | [Прогнозирование арбитражных дел](https://github.com/070705gavrilovaanna/spb_court_cases_predictions), [Классификация эмоций в тексте](https://github.com/070705gavrilovaanna/emotions_classification) |
 | Визуализация данных | Все проекты |
-
 
 ## Инструменты
 <div>
@@ -45,6 +43,7 @@
 - [Классификация опухолей мозга](https://github.com/070705gavrilovaanna/brain_tumour_classification) - обнаружение опухолей на МРТ (accuracy 88.2%)
 - [Question Answering with BERT](https://github.com/070705gavrilovaanna/question_answering) - поиск ответов на вопросы по тексту (SQuAD)
 - [Генерация текста с LSTM и GPT-2](https://github.com/070705gavrilovaanna/text_generation) - сравнение архитектур на корпусе цитат
+- [Классификация эмоций в тексте](https://github.com/070705gavrilovaanna/emotions_classification) - сравнение LSTM и Transformer на датасете emotions (F1=0.89)
 - [Прогнозирование исхода арбитражных дел](https://github.com/070705gavrilovaanna/spb_court_cases_predictions) - мультиклассовая классификация (accuracy 59%)
 - [Прогнозирование движений на криптовалютном рынке](https://github.com/070705gavrilovaanna/DRW-crypto-market-prediction) - работа с 780+ признаками, временные ряды
 - [Прогнозирование результатов чемпионата по художественной гимнастике](https://github.com/070705gavrilovaanna/rg_championship_2026_prediction) - предсказание топ-5 и баллов на ЧР-2026
