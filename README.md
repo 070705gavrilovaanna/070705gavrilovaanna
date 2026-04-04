@@ -10,7 +10,7 @@
 |-------|--------|
 | **Глубокое обучение** | |
 | Компьютерное зрение (CNN, ResNet) | [Классификация клеток крови](https://github.com/070705gavrilovaanna/blood_cell_cancer_classification), [Классификация опухолей мозга](https://github.com/070705gavrilovaanna/brain_tumour_classification) |
-| NLP (BERT, LSTM, GPT-2, MBart, T5) | [Question Answering](https://github.com/070705gavrilovaanna/question_answering), [Генерация текста](https://github.com/070705gavrilovaanna/text_generation), [Суммаризация новостных текстов](https://github.com/070705gavrilovaanna/text_summarization), [Классификация эмоций в тексте](https://github.com/070705gavrilovaanna/emotions_classification) |
+| NLP (BERT, LSTM, GPT-2, MBart, T5) | [Question Answering](https://github.com/070705gavrilovaanna/question_answering), [Генерация текста](https://github.com/070705gavrilovaanna/text_generation), [Суммаризация новостных текстов](https://github.com/070705gavrilovaanna/text_summarization), [Классификация неискренних вопросов Quora](https://github.com/070705gavrilovaanna/quora_insincere_questions) [Классификация эмоций в тексте](https://github.com/070705gavrilovaanna/emotions_classification) |
 | **Машинное обучение** | |
 | Ансамблевые методы (XGBoost, RandomForest) | [Прогнозирование стоимости недвижимости](https://github.com/070705gavrilovaanna/flat_price), [Прогнозирование чемпионата гимнастики](https://github.com/070705gavrilovaanna/rg_championship_2026_prediction) |
 | Финансовые временные ряды | [Прогнозирование движений на крипторынке](https://github.com/070705gavrilovaanna/DRW-crypto-market-prediction) |
@@ -39,6 +39,7 @@
 ## Проекты
 
 - [Суммаризация новостных текстов с MBart и T5](https://github.com/070705gavrilovaanna/text_summarization) - сравнение моделей суммаризации, иерархическая обработка длинных текстов, Telegram-бот (MBart: сжатие до 10x)
+-  [Классификация неискренних вопросов Quora](https://github.com/070705gavrilovaanna/quora_insincere_questions) - BERT (ROC-AUC 0.965), сравнение с TF-IDF + Logistic Regression (0.940) и LightGBM (0.913), GridSearch, аугментация текста
 - [Классификация клеток крови](https://github.com/070705gavrilovaanna/blood_cell_cancer_classification) - определение типа клеток при лейкозе (F1=0.998)
 - [Классификация опухолей мозга](https://github.com/070705gavrilovaanna/brain_tumour_classification) - обнаружение опухолей на МРТ (accuracy 88.2%)
 - [Question Answering with BERT](https://github.com/070705gavrilovaanna/question_answering) - поиск ответов на вопросы по тексту (SQuAD)
