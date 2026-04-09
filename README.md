@@ -46,7 +46,7 @@
 - [Question Answering with BERT](https://github.com/070705gavrilovaanna/question_answering) - поиск ответов на вопросы по тексту (SQuAD)
 - [Генерация текста с LSTM и GPT-2](https://github.com/070705gavrilovaanna/text_generation) - сравнение архитектур на корпусе цитат
 - [Классификация эмоций в тексте](https://github.com/070705gavrilovaanna/emotions_classification) - сравнение LSTM и Transformer на датасете emotions (F1=0.89)
-- [Прогнозирование исхода арбитражных дел](https://github.com/070705gavrilovaanna/spb_court_cases_predictions) - мультиклассовая классификация (accuracy 59%)
+- [Прогнозирование исхода арбитражных дел](https://github.com/070705gavrilovaanna/spb_court_cases_predictions) - мультиклассовая классификация (accuracy 74%)
 - [Прогнозирование движений на криптовалютном рынке](https://github.com/070705gavrilovaanna/DRW-crypto-market-prediction) - работа с 780+ признаками, временные ряды
 - [Прогнозирование результатов чемпионата по художественной гимнастике](https://github.com/070705gavrilovaanna/rg_championship_2026_prediction) - предсказание топ-5 и баллов на ЧР-2026
 - [Прогнозирование стоимости недвижимости](https://github.com/070705gavrilovaanna/flat_price) - сравнение LinearRegression, XGBoost, PyTorch NN (R²=0.999)
