@@ -28,6 +28,8 @@
     <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
     <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white" />
     <img src="https://img.shields.io/badge/XGBoost-FF6F00" />
+    <img src="https://img.shields.io/badge/LightGBM-4B8BBE" />
+    <img src="https://img.shields.io/badge/CatBoost-FFD21E" />
     <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Seaborn-4B8BBE" />
     <img src="https://img.shields.io/badge/Transformers-FFD21E?logo=huggingface&logoColor=black" />
