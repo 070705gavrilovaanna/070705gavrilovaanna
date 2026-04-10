@@ -12,7 +12,7 @@
 | Компьютерное зрение (CNN, ResNet) | [Классификация клеток крови](https://github.com/070705gavrilovaanna/blood_cell_cancer_classification), [Классификация опухолей мозга](https://github.com/070705gavrilovaanna/brain_tumour_classification) |
 | NLP (BERT, LSTM, GPT-2, MBart, T5) | [Суммаризация новостных текстов](https://github.com/070705gavrilovaanna/text_summarization), [Машинный перевод (английский -> французский)](https://github.com/070705gavrilovaanna/seq2seq_translation), [Классификация неискренних вопросов Quora](https://github.com/070705gavrilovaanna/quora_questions_classification) [Классификация эмоций в тексте](https://github.com/070705gavrilovaanna/emotions_classification), [Question Answering](https://github.com/070705gavrilovaanna/question_answering), [Генерация текста](https://github.com/070705gavrilovaanna/text_generation) |
 | **Машинное обучение** | |
-| Ансамблевые методы (XGBoost, RandomForest) | [Прогнозирование стоимости недвижимости](https://github.com/070705gavrilovaanna/flat_price), [Прогнозирование чемпионата гимнастики](https://github.com/070705gavrilovaanna/rg_championship_2026_prediction) |
+| Ансамблевые методы (RandomForest, XGBoost, LightGBM, CatBoost) | [Прогнозирование стоимости недвижимости](https://github.com/070705gavrilovaanna/flat_price), [Прогнозирование чемпионата гимнастики](https://github.com/070705gavrilovaanna/rg_championship_2026_prediction), [Прогнозирование отказов фрезерного станка](https://github.com/070705gavrilovaanna/machine_failure_classification) |
 | Финансовые временные ряды | [Прогнозирование движений на крипторынке](https://github.com/070705gavrilovaanna/DRW-crypto-market-prediction) |
 | Временные ряды (метеоданные) | [Прогнозирование фронтов на Байкале](https://github.com/070705gavrilovaanna/baikal_fronts_prediction) |
 | Feature Engineering | [Прогнозирование чемпионата гимнастики](https://github.com/070705gavrilovaanna/rg_championship_2026_prediction), [Прогнозирование арбитражных дел](https://github.com/070705gavrilovaanna/spb_court_cases_predictions) |
@@ -51,7 +51,7 @@
 - [Прогнозирование результатов чемпионата по художественной гимнастике](https://github.com/070705gavrilovaanna/rg_championship_2026_prediction) - предсказание топ-5 и баллов на ЧР-2026
 - [Прогнозирование стоимости недвижимости](https://github.com/070705gavrilovaanna/flat_price) - сравнение LinearRegression, XGBoost, PyTorch NN (R²=0.999)
 - [Прогнозирование атмосферных фронтов на Байкале](https://github.com/070705gavrilovaanna/baikal_fronts_prediction) - метеоданные, бинарная классификация (accuracy 74%)
-
+- [Прогнозирование отказов фрезерного станка](https://github.com/070705gavrilovaanna/machine_failure_classification) - прогнозирование отказов фрезерного станка, работа с дисбалансом (F1=0.77, OSF/HDF F1=1.0)
 ---
 **Контакты:**
 - **Email:** wandeirngs@gmail.com
