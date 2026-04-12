@@ -52,9 +52,9 @@
 - [Прогнозирование исхода арбитражных дел](https://github.com/070705gavrilovaanna/spb_court_cases_predictions) - мультиклассовая классификация (accuracy 74%)
 - [Прогнозирование отказов фрезерного станка](https://github.com/070705gavrilovaanna/machine_failure_classification) - прогнозирование отказов фрезерного станка, работа с дисбалансом (F1=0.77, OSF/HDF F1=1.0)
 - [Классификация эмоций в тексте](https://github.com/070705gavrilovaanna/emotions_classification) - сравнение LSTM и Transformer на датасете emotions (F1=0.89)
-- [Прогнозирование результатов чемпионата по художественной гимнастике](https://github.com/070705gavrilovaanna/rg_championship_2026_prediction) - предсказание топ-5 и баллов на ЧР-2026
 - [Прогнозирование стоимости недвижимости](https://github.com/070705gavrilovaanna/flat_price) - сравнение LinearRegression, XGBoost, PyTorch NN (R²=0.999)
 - [Прогнозирование атмосферных фронтов на Байкале](https://github.com/070705gavrilovaanna/baikal_fronts_prediction) - метеоданные, бинарная классификация (accuracy 74%)
+- [Прогнозирование результатов чемпионата по художественной гимнастике](https://github.com/070705gavrilovaanna/rg_championship_2026_prediction) - предсказание топ-5 и баллов на ЧР-2026 (R² = 0.35, MAE = 3.0 (юниорки 2.82, сениорки 3.23))
 
 ---
 **Контакты:**
