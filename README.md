@@ -43,10 +43,10 @@
 - [Суммаризация новостных текстов с MBart и T5](https://github.com/070705gavrilovaanna/text_summarization) - сравнение моделей суммаризации, иерархическая обработка длинных текстов, Telegram-бот (MBart: сжатие до 10x)
 - [Машинный перевод (английский -> французский)](https://github.com/070705gavrilovaanna/seq2seq_translation) - Seq2Seq с механизмом внимания, обучение на 185k пар, Loss 3.24
 - [Классификация неискренних вопросов Quora](https://github.com/070705gavrilovaanna/quora_questions_classification) - BERT (ROC-AUC 0.965), сравнение с TF-IDF + Logistic Regression (0.940) и LightGBM (0.913), GridSearch, аугментация текста
+- [Question Answering with BERT](https://github.com/070705gavrilovaanna/question_answering) - поиск ответов на вопросы по тексту (SQuAD)
 - [Классификация спутниковых снимков EuroSAT (13 каналов)](https://github.com/070705gavrilovaanna/eurosat_classification.ipynb) - классификация 10 типов земной поверхности по мультиспектральным снимкам (13 каналов: RGB + NIR + SWIR) - F1=0.969
 - [Классификация клеток крови](https://github.com/070705gavrilovaanna/blood_cell_cancer_classification) - определение типа клеток при лейкозе (F1=0.998)
 - [Классификация опухолей мозга](https://github.com/070705gavrilovaanna/brain_tumour_classification) - обнаружение опухолей на МРТ (accuracy 88.2%)
-- [Question Answering with BERT](https://github.com/070705gavrilovaanna/question_answering) - поиск ответов на вопросы по тексту (SQuAD)
 - [Генерация текста с LSTM и GPT-2](https://github.com/070705gavrilovaanna/text_generation) - сравнение архитектур на корпусе цитат
 - [Прогнозирование движений на криптовалютном рынке](https://github.com/070705gavrilovaanna/DRW-crypto-market-prediction) - работа с 780+ признаками, временные ряды
 - [Прогнозирование исхода арбитражных дел](https://github.com/070705gavrilovaanna/spb_court_cases_predictions) - мультиклассовая классификация (accuracy 74%)
