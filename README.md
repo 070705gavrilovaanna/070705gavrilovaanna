@@ -15,7 +15,7 @@
 | Ансамблевые методы (RandomForest, XGBoost, LightGBM, CatBoost) | [Прогнозирование стоимости недвижимости](https://github.com/070705gavrilovaanna/flat_price), [Прогнозирование чемпионата гимнастики](https://github.com/070705gavrilovaanna/rg_championship_2026_prediction), [Прогнозирование отказов фрезерного станка](https://github.com/070705gavrilovaanna/machine_failure_classification) |
 | Финансовые временные ряды | [Прогнозирование движений на крипторынке](https://github.com/070705gavrilovaanna/DRW-crypto-market-prediction) |
 | Временные ряды (метеоданные) | [Прогнозирование фронтов на Байкале](https://github.com/070705gavrilovaanna/baikal_fronts_prediction) |
-| Кластеризация (KMeans, PCA) | [Сегментация пользователей интернет-магазина](https://github.com/070705gavrilovaanna/ecommerce_user_clustering) |
+| Кластеризация (KMeans, PCA) | [Сегментация пользователей интернет-магазина](https://github.com/070705gavrilovaanna/ecommerce_user_clustering_analysis) |
 | Feature Engineering | [Прогнозирование чемпионата гимнастики](https://github.com/070705gavrilovaanna/rg_championship_2026_prediction), [Прогнозирование арбитражных дел](https://github.com/070705gavrilovaanna/spb_court_cases_predictions) |
 | Мультиклассовая классификация | [Прогнозирование арбитражных дел](https://github.com/070705gavrilovaanna/spb_court_cases_predictions), [Классификация эмоций в тексте](https://github.com/070705gavrilovaanna/emotions_classification) |
 | Визуализация данных | Все проекты |
@@ -52,7 +52,7 @@
 - [Прогнозирование движений на криптовалютном рынке](https://github.com/070705gavrilovaanna/DRW-crypto-market-prediction) - работа с 780+ признаками, временные ряды
 - [Прогнозирование исхода арбитражных дел](https://github.com/070705gavrilovaanna/spb_court_cases_predictions) - мультиклассовая классификация (accuracy 74%)
 - [Прогнозирование отказов фрезерного станка](https://github.com/070705gavrilovaanna/machine_failure_classification) - прогнозирование отказов фрезерного станка, работа с дисбалансом (F1=0.77, OSF/HDF F1=1.0)
-- [Сегментация пользователей интернет-магазина](https://github.com/070705gavrilovaanna/ecommerce_user_clustering) - кластеризация 500k пользователей по поведению (просмотры, корзины, покупки), KMeans, 3 кластера (VIP, активные посетители, пассивные зрители)
+- [Сегментация пользователей интернет-магазина](https://github.com/070705gavrilovaanna/ecommerce_user_clustering_analysis) - кластеризация 500k пользователей по поведению (просмотры, корзины, покупки), KMeans, 3 кластера (VIP, активные посетители, пассивные зрители)
 - [Классификация эмоций в тексте](https://github.com/070705gavrilovaanna/emotions_classification) - сравнение LSTM и Transformer на датасете emotions (F1=0.89)
 - [Прогнозирование стоимости недвижимости](https://github.com/070705gavrilovaanna/flat_price) - сравнение LinearRegression, XGBoost, PyTorch NN (R²=0.999)
 - [Прогнозирование атмосферных фронтов на Байкале](https://github.com/070705gavrilovaanna/baikal_fronts_prediction) - метеоданные, бинарная классификация (accuracy 74%)
