@@ -47,8 +47,7 @@
 - [Классификация клеток крови](https://github.com/070705gavrilovaanna/blood_cell_cancer_classification) - определение типа клеток при лейкозе (F1=0.998)
 - [Классификация опухолей мозга](https://github.com/070705gavrilovaanna/brain_tumour_classification) - обнаружение опухолей на МРТ (accuracy 88.2%)
 - [Генерация текста с LSTM и GPT-2](https://github.com/070705gavrilovaanna/text_generation) - сравнение архитектур на корпусе цитат
-- [Прогнозирование движений на криптовалютном рынке](https://github.com/070
-- 705gavrilovaanna/DRW-crypto-market-prediction) - работа с 780+ признаками, временные ряды
+- [Прогнозирование движений на криптовалютном рынке](https://github.com/070705gavrilovaanna/DRW-crypto-market-prediction) - работа с 780+ признаками, временные ряды
 - [Прогнозирование исхода арбитражных дел](https://github.com/070705gavrilovaanna/spb_court_cases_predictions) - мультиклассовая классификация (accuracy 74%)
 - [Прогнозирование отказов фрезерного станка](https://github.com/070705gavrilovaanna/machine_failure_classification) - прогнозирование отказов фрезерного станка, работа с дисбалансом (F1=0.77, OSF/HDF F1=1.0)
 - [Сегментация пользователей интернет-магазина](https://github.com/070705gavrilovaanna/ecommerce_user_clustering_analysis) - кластеризация 500k пользователей по поведению (просмотры, корзины, покупки), KMeans, 3 кластера (VIP, активные посетители, пассивные зрители)
