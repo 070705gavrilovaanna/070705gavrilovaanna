@@ -9,13 +9,14 @@
 | Навык | Проект |
 |-------|--------|
 | **Глубокое обучение** | |
-| NLP (BERT, LSTM, GPT-2, MBart, T5) | [Суммаризация новостных текстов](https://github.com/070705gavrilovaanna/text_summarization), [Машинный перевод (английский -> французский)](https://github.com/070705gavrilovaanna/seq2seq_translation), [Классификация неискренних вопросов Quora](https://github.com/070705gavrilovaanna/quora_questions_classification), [Классификация эмоций в тексте](https://github.com/070705gavrilovaanna/emotions_classification), [Question Answering](https://github.com/070705gavrilovaanna/question_answering), [Генерация текста](https://github.com/070705gavrilovaanna/text_generation) |
-| Компьютерное зрение (CNN, ResNet, мультиспектральная классификация) | [Классификация клеток крови](https://github.com/070705gavrilovaanna/blood_cell_cancer_classification),  [Классификация спутниковых снимков EuroSAT (13 каналов)](https://github.com/070705gavrilovaanna/eurosat_classification.ipynb), [Классификация опухолей мозга](https://github.com/070705gavrilovaanna/brain_tumour_classification) |
+| NLP (BERT, LSTM, GPT-2, MBart, T5) | [Суммаризация новостей (Telegram-бот)](https://github.com/070705gavrilovaanna/text_summarization), [Перевод EN->FR (API)](https://github.com/070705gavrilovaanna/en_fr_translation), [Классификация Quora](https://github.com/070705gavrilovaanna/quora_questions_classification), [Классификация эмоций (API)](https://github.com/070705gavrilovaanna/emotions_classification), [Question Answering](https://github.com/070705gavrilovaanna/question_answering), [Генерация текста](https://github.com/070705gavrilovaanna/text_generation) |
+| Компьютерное зрение (CNN, ResNet, мультиспектральная классификация) | [Классификация клеток крови](https://github.com/070705gavrilovaanna/blood_cell_cancer_classification), [Классификация спутниковых снимков EuroSAT (13 каналов)](https://github.com/070705gavrilovaanna/eurosat_classification.ipynb), [Классификация опухолей мозга](https://github.com/070705gavrilovaanna/brain_tumour_classification) |
+| **Деплой моделей** | |
+| FastAPI, Docker, Hugging Face Spaces | [Telegram-бот для суммаризации](https://huggingface.co/spaces/user43242422/telegram-summarization-bot), [API перевода EN->FR](https://huggingface.co/spaces/user43242422/translator-eng-fr-api), [API классификации эмоций](https://huggingface.co/spaces/user43242422/emotion-classifier-api) |
 | **Машинное обучение** | |
-| Ансамблевые методы (RandomForest, XGBoost, LightGBM, CatBoost) | [Прогнозирование стоимости недвижимости](https://github.com/070705gavrilovaanna/flat_price), [Прогнозирование чемпионата гимнастики](https://github.com/070705gavrilovaanna/rg_championship_2026_prediction), [Прогнозирование отказов фрезерного станка](https://github.com/070705gavrilovaanna/machine_failure_classification), [Прогнозирование арбитражных дел](https://github.com/070705gavrilovaanna/spb_court_cases_predictions) |
-| Временные ряды | [Прогнозирование движений на крипторынке](https://github.com/070705gavrilovaanna/DRW-crypto-market-prediction), [Прогнозирование фронтов на Байкале](https://github.com/070705gavrilovaanna/baikal_fronts_prediction) |
-| Кластеризация (KMeans, PCA) | [Сегментация пользователей интернет-магазина](https://github.com/070705gavrilovaanna/ecommerce_user_clustering_analysis) |
-| Мультиклассовая классификация | [Прогнозирование арбитражных дел](https://github.com/070705gavrilovaanna/spb_court_cases_predictions), [Классификация эмоций в тексте](https://github.com/070705gavrilovaanna/emotions_classification) |
+| Ансамблевые методы (RandomForest, XGBoost, LightGBM, CatBoost) | [Прогнозирование стоимости недвижимости](https://github.com/070705gavrilovaanna/flat_price), [Прогнозирование чемпионата гимнастики](https://github.com/070705gavrilovaanna/rg_championship_2026_prediction), [Прогнозирование отказов станка](https://github.com/070705gavrilovaanna/machine_failure_classification), [Прогнозирование арбитражных дел](https://github.com/070705gavrilovaanna/spb_court_cases_predictions) |
+| Временные ряды | [Прогнозирование крипторынка](https://github.com/070705gavrilovaanna/DRW-crypto-market-prediction), [Прогнозирование фронтов на Байкале](https://github.com/070705gavrilovaanna/baikal_fronts_prediction) |
+| Кластеризация (KMeans, PCA) | [Сегментация пользователей](https://github.com/070705gavrilovaanna/ecommerce_user_clustering_analysis) |
 | Визуализация данных | Все проекты |
 
 ## Инструменты
@@ -23,12 +24,13 @@
     <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black" />
     <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
     <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
     <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white" />
     <img src="https://img.shields.io/badge/XGBoost-FF6F00" />
-    <img src="https://img.shields.io/badge/LightGBM-4B8BBE" />
-    <img src="https://img.shields.io/badge/CatBoost-FFD21E" />
     <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Seaborn-4B8BBE" />
     <img src="https://img.shields.io/badge/Transformers-FFD21E?logo=huggingface&logoColor=black" />
@@ -39,24 +41,26 @@
 
 ## Проекты
 
-- [Суммаризация новостных текстов с MBart и T5](https://github.com/070705gavrilovaanna/text_summarization) - сравнение моделей суммаризации, иерархическая обработка длинных текстов, Telegram-бот (MBart: сжатие до 10x)
-- [Машинный перевод (английский -> французский)](https://github.com/070705gavrilovaanna/seq2seq_translation) - Seq2Seq с механизмом внимания, обучение на 185k пар, Loss 3.24
-- [Классификация неискренних вопросов Quora](https://github.com/070705gavrilovaanna/quora_questions_classification) - BERT (ROC-AUC 0.965), сравнение с TF-IDF + Logistic Regression (0.940) и LightGBM (0.913), GridSearch, аугментация текста
-- [Question Answering with BERT](https://github.com/070705gavrilovaanna/question_answering) - поиск ответов на вопросы по тексту (SQuAD)
-- [Классификация спутниковых снимков EuroSAT (13 каналов)](https://github.com/070705gavrilovaanna/eurosat_classification.ipynb) - классификация 10 типов земной поверхности по мультиспектральным снимкам (13 каналов: RGB + NIR + SWIR) - F1=0.969
-- [Классификация клеток крови](https://github.com/070705gavrilovaanna/blood_cell_cancer_classification) - определение типа клеток при лейкозе (F1=0.998)
-- [Классификация опухолей мозга](https://github.com/070705gavrilovaanna/brain_tumour_classification) - обнаружение опухолей на МРТ (accuracy 88.2%)
+- [Суммаризация новостей (Telegram-бот)](https://github.com/070705gavrilovaanna/text_summarization) - сравнение MBart и T5, иерархическая суммаризация, Telegram бот
+- [Машинный перевод EN→FR (API)](https://github.com/070705gavrilovaanna/en_fr_translation) - сравнение Seq2Seq+Attention и T5, API на Hugging Face
+- [Классификация эмоций в тексте (API)](https://github.com/070705gavrilovaanna/emotions_classification) - LSTM vs Transformer, F1=0.95, API на Hugging Face
+- [Классификация неискренних вопросов Quora](https://github.com/070705gavrilovaanna/quora_questions_classification) - BERT (ROC-AUC 0.965), сравнение с TF-IDF + Logistic Regression
+- [Question Answering with BERT](https://github.com/070705gavrilovaanna/question_answering) - поиск ответов по тексту (SQuAD)
 - [Генерация текста с LSTM и GPT-2](https://github.com/070705gavrilovaanna/text_generation) - сравнение архитектур на корпусе цитат
-- [Прогнозирование движений на криптовалютном рынке](https://github.com/070705gavrilovaanna/DRW-crypto-market-prediction) - работа с 780+ признаками, временные ряды
-- [Прогнозирование исхода арбитражных дел](https://github.com/070705gavrilovaanna/spb_court_cases_predictions) - мультиклассовая классификация (accuracy 74%)
-- [Прогнозирование отказов фрезерного станка](https://github.com/070705gavrilovaanna/machine_failure_classification) - прогнозирование отказов фрезерного станка, работа с дисбалансом (F1=0.77, OSF/HDF F1=1.0)
-- [Сегментация пользователей интернет-магазина](https://github.com/070705gavrilovaanna/ecommerce_user_clustering_analysis) - кластеризация 500k пользователей по поведению (просмотры, корзины, покупки), KMeans, 3 кластера (VIP, активные посетители, пассивные зрители)
-- [Классификация эмоций в тексте](https://github.com/070705gavrilovaanna/emotions_classification) - сравнение LSTM и Transformer на датасете emotions (F1=0.89)
+- [Классификация клеток крови](https://github.com/070705gavrilovaanna/blood_cell_cancer_classification) - определение типа клеток при лейкозе (F1=0.998)
+- [Классификация спутниковых снимков EuroSAT (13 каналов)](https://github.com/070705gavrilovaanna/eurosat_classification.ipynb) - классификация земной поверхности (F1=0.969)
+- [Классификация опухолей мозга](https://github.com/070705gavrilovaanna/brain_tumour_classification) - обнаружение опухолей на МРТ (accuracy 88.2%)
 - [Прогнозирование стоимости недвижимости](https://github.com/070705gavrilovaanna/flat_price) - сравнение LinearRegression, XGBoost, PyTorch NN (R²=0.999)
-- [Прогнозирование атмосферных фронтов на Байкале](https://github.com/070705gavrilovaanna/baikal_fronts_prediction) - метеоданные, бинарная классификация (accuracy 74%)
-- [Прогнозирование результатов чемпионата по художественной гимнастике](https://github.com/070705gavrilovaanna/rg_championship_2026_prediction) - предсказание топ-5 и баллов на ЧР-2026 (R² = 0.35, MAE = 3.0 (юниорки 2.82, сениорки 3.23))
+- [Прогнозирование отказов фрезерного станка](https://github.com/070705gavrilovaanna/machine_failure_classification) - работа с дисбалансом (F1=0.77)
+- [Прогнозирование исхода арбитражных дел](https://github.com/070705gavrilovaanna/spb_court_cases_predictions) - мультиклассовая классификация (accuracy 74%)
+- [Прогнозирование движений на крипторынке](https://github.com/070705gavrilovaanna/DRW-crypto-market-prediction) - работа с 780+ признаками, временные ряды
+- [Прогнозирование атмосферных фронтов на Байкале](https://github.com/070705gavrilovaanna/baikal_fronts_prediction) - бинарная классификация (accuracy 74%)
+- [Прогнозирование результатов чемпионата по гимнастике](https://github.com/070705gavrilovaanna/rg_championship_2026_prediction) - предсказание баллов (R²=0.35)
+- [Сегментация пользователей интернет-магазина](https://github.com/070705gavrilovaanna/ecommerce_user_clustering_analysis) - кластеризация 500k пользователей (KMeans, 3 кластера)
 
 ---
 **Контакты:**
 - **Email:** wandeirngs@gmail.com
 - **Telegram:** @user6044
+---
+**Hugging Face:** [user43242422](https://huggingface.co/user43242422)
