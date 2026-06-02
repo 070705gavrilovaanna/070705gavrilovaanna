@@ -17,7 +17,6 @@
 | Ансамблевые методы (RandomForest, XGBoost, LightGBM, CatBoost) | [Прогнозирование стоимости недвижимости](https://github.com/070705gavrilovaanna/flat_price), [Прогнозирование чемпионата гимнастики](https://github.com/070705gavrilovaanna/rg_championship_2026_prediction), [Прогнозирование отказов станка](https://github.com/070705gavrilovaanna/machine_failure_classification), [Прогнозирование арбитражных дел](https://github.com/070705gavrilovaanna/spb_court_cases_predictions) |
 | Временные ряды | [Прогнозирование крипторынка](https://github.com/070705gavrilovaanna/DRW-crypto-market-prediction), [Прогнозирование фронтов на Байкале](https://github.com/070705gavrilovaanna/baikal_fronts_prediction) |
 | Кластеризация (KMeans, PCA) | [Сегментация пользователей](https://github.com/070705gavrilovaanna/ecommerce_user_clustering_analysis) |
-| Визуализация данных | Все проекты |
 
 ## Инструменты
 <div>
