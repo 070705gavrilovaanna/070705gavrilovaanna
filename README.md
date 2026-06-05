@@ -14,7 +14,7 @@
 | **Деплой моделей** | |
 | FastAPI, Docker, Hugging Face Spaces | [Telegram-бот для суммаризации](https://huggingface.co/spaces/user43242422/telegram-summarization-bot), [API перевода EN->FR](https://huggingface.co/spaces/user43242422/translator-eng-fr-api), [API классификации эмоций](https://huggingface.co/spaces/user43242422/emotion-classifier-api) |
 | **Машинное обучение** | |
-| Ансамблевые методы (RandomForest, XGBoost, LightGBM, CatBoost) | [Прогнозирование стоимости недвижимости](https://github.com/070705gavrilovaanna/flat_price), [Прогнозирование риска невозврата кредита](https://github.com/070705gavrilovaanna/home_cred_def_risk_final), [Прогнозирование отказов станка](https://github.com/070705gavrilovaanna/machine_failure_classification), [Прогнозирование арбитражных дел](https://github.com/070705gavrilovaanna/spb_court_cases_predictions), [Прогнозирование результатов чемпионата по гимнастике](https://github.com/070705gavrilovaanna/rg_championship_2026_prediction) |
+| Ансамблевые методы (RandomForest, XGBoost, LightGBM, CatBoost) | [Прогнозирование стоимости недвижимости](https://github.com/070705gavrilovaanna/flat_price), [Прогнозирование риска невозврата кредита](https://github.com/070705gavrilovaanna/home_credit_default_risk), [Прогнозирование отказов станка](https://github.com/070705gavrilovaanna/machine_failure_classification), [Прогнозирование арбитражных дел](https://github.com/070705gavrilovaanna/spb_court_cases_predictions), [Прогнозирование результатов чемпионата по гимнастике](https://github.com/070705gavrilovaanna/rg_championship_2026_prediction) |
 | Временные ряды | [Прогнозирование крипторынка](https://github.com/070705gavrilovaanna/DRW-crypto-market-prediction), [Прогнозирование фронтов на Байкале](https://github.com/070705gavrilovaanna/baikal_fronts_prediction) |
 | Кластеризация (KMeans, PCA) | [Сегментация пользователей](https://github.com/070705gavrilovaanna/ecommerce_user_clustering_analysis) |
 
@@ -50,7 +50,7 @@
 - [Классификация спутниковых снимков EuroSAT (13 каналов)](https://github.com/070705gavrilovaanna/eurosat_classification.ipynb) - классификация земной поверхности (F1=0.969)
 - [Классификация опухолей мозга](https://github.com/070705gavrilovaanna/brain_tumour_classification) - обнаружение опухолей на МРТ (accuracy 88.2%)
 - [Прогнозирование стоимости недвижимости](https://github.com/070705gavrilovaanna/flat_price) - сравнение LinearRegression, XGBoost, PyTorch NN (R²=0.999)
-- [Прогнозирование риска невозврата кредита](https://github.com/070705gavrilovaanna/home_cred_def_risk) - XGBoost (ROC-AUC=0.777) и LightGBM (0.776), обработка 9 млн пропусков, 36 агрегированных признаков из 4 таблиц
+- [Прогнозирование риска невозврата кредита](https://github.com/070705gavrilovaanna/home_credit_default_risk) - XGBoost (ROC-AUC=0.777) и LightGBM (0.776), обработка 9 млн пропусков, 36 агрегированных признаков из 4 таблиц
 - [Прогнозирование отказов фрезерного станка](https://github.com/070705gavrilovaanna/machine_failure_classification) - работа с дисбалансом (F1=0.77)
 - [Прогнозирование исхода арбитражных дел](https://github.com/070705gavrilovaanna/spb_court_cases_predictions) - мультиклассовая классификация (accuracy 74%)
 - [Прогнозирование движений на крипторынке](https://github.com/070705gavrilovaanna/DRW-crypto-market-prediction) - работа с 780+ признаками, временные ряды
