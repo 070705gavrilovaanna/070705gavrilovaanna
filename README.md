@@ -12,9 +12,9 @@
 | NLP (BERT, LSTM, GPT-2, MBart, T5) | [Суммаризация новостей (Telegram-бот)](https://github.com/070705gavrilovaanna/text_summarization), [Перевод EN->FR (API)](https://github.com/070705gavrilovaanna/en_fr_translation), [Классификация Quora](https://github.com/070705gavrilovaanna/quora_questions_classification), [Классификация эмоций (API)](https://github.com/070705gavrilovaanna/emotions_classification), [Question Answering](https://github.com/070705gavrilovaanna/question_answering), [Генерация текста](https://github.com/070705gavrilovaanna/text_generation) |
 | Компьютерное зрение (CNN, ResNet, мультиспектральная классификация) | [Классификация клеток крови](https://github.com/070705gavrilovaanna/blood_cell_cancer_classification), [Классификация спутниковых снимков EuroSAT (13 каналов)](https://github.com/070705gavrilovaanna/eurosat_classification.ipynb), [Классификация опухолей мозга](https://github.com/070705gavrilovaanna/brain_tumour_classification) |
 | **RAG и LLM-агенты** | |
-| LangChain, LangGraph, FAISS | [Агент для подбора музыки (RAG + ReAct)](https://github.com/070705gavrilovaanna/music_mood)
+| LangChain, LangGraph, FAISS | [Агент для подбора музыки (RAG + ReAct)](https://github.com/070705gavrilovaanna/music_mood), [Агент для управления контентом](https://github.com/070705gavrilovaanna/ai_content_manager)
 | **Деплой моделей** | |
-| FastAPI, Docker, Hugging Face Spaces, Gradio | [Telegram-бот для суммаризации](https://github.com/070705gavrilovaanna/text_summarization), [API перевода EN->FR](https://github.com/070705gavrilovaanna/en_fr_translation), [API классификации эмоций](https://github.com/070705gavrilovaanna/emotions_classification), [Агент для подбора музыки (RAG + ReAct)](https://github.com/070705gavrilovaanna/music_mood)
+| FastAPI, Docker, Hugging Face Spaces, Gradio, Uvicorn | [Telegram-бот для суммаризации](https://github.com/070705gavrilovaanna/text_summarization), [API перевода EN->FR](https://github.com/070705gavrilovaanna/en_fr_translation), [API классификации эмоций](https://github.com/070705gavrilovaanna/emotions_classification), [Агент для подбора музыки (RAG + ReAct)](https://github.com/070705gavrilovaanna/music_mood), [Агент для управления контентом](https://github.com/070705gavrilovaanna/ai_content_manager)
 | **Машинное обучение** | |
 | Ансамблевые методы (RandomForest, XGBoost, LightGBM, CatBoost) | [Прогнозирование стоимости недвижимости](https://github.com/070705gavrilovaanna/flat_price), [Прогнозирование риска невозврата кредита](https://github.com/070705gavrilovaanna/home_credit_default_risk), [Прогнозирование отказов станка](https://github.com/070705gavrilovaanna/machine_failure_classification), [Прогнозирование арбитражных дел](https://github.com/070705gavrilovaanna/spb_court_cases_predictions), [Прогнозирование результатов чемпионата по гимнастике](https://github.com/070705gavrilovaanna/rg_championship_2026_prediction) |
 | Временные ряды | [Прогнозирование крипторынка](https://github.com/070705gavrilovaanna/DRW-crypto-market-prediction), [Прогнозирование фронтов на Байкале](https://github.com/070705gavrilovaanna/baikal_fronts_prediction) |
@@ -44,10 +44,11 @@
 
 ## Проекты
 
-- [Агент для подбора музыки (RAG + ReAct)](https://github.com/070705gavrilovaanna/music_mood) - ReAct-агент, гибридный поиск (FAISS + all-MiniLM-L6-v2), 12 аудио-признаков, GPT-OSS 120B, Gradio
 - [Суммаризация новостей (Telegram-бот)](https://github.com/070705gavrilovaanna/text_summarization) - сравнение MBart и T5, иерархическая суммаризация, Telegram бот
 - [Машинный перевод EN→FR (API)](https://github.com/070705gavrilovaanna/en_fr_translation) - сравнение Seq2Seq+Attention и T5, API на Hugging Face
 - [Классификация эмоций в тексте (API)](https://github.com/070705gavrilovaanna/emotions_classification) - LSTM vs Transformer, F1=0.95, API на Hugging Face
+- [Агент для подбора музыки (RAG + ReAct)](https://github.com/070705gavrilovaanna/music_mood) - ReAct-агент, гибридный поиск (FAISS + all-MiniLM-L6-v2), 12 аудио-признаков, GPT-OSS 120B, Gradio
+- [Агент для управления контентом](https://github.com/070705gavrilovaanna/ai_content_manager) - ReAct-агент с 12 инструментами (енерация статей, постов, идей, планов, сохранение в drafts/published, поиск, статистика) и памятью
 - [Классификация неискренних вопросов Quora](https://github.com/070705gavrilovaanna/quora_questions_classification) - BERT (ROC-AUC 0.965), сравнение с TF-IDF + Logistic Regression
 - [Question Answering with BERT](https://github.com/070705gavrilovaanna/question_answering) - поиск ответов по тексту (SQuAD)
 - [Генерация текста с LSTM и GPT-2](https://github.com/070705gavrilovaanna/text_generation) - сравнение архитектур на корпусе цитат
