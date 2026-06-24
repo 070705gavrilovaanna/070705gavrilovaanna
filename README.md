@@ -48,7 +48,7 @@
 - [Машинный перевод EN→FR (API)](https://github.com/070705gavrilovaanna/en_fr_translation) - сравнение Seq2Seq+Attention и T5, API на Hugging Face
 - [Классификация эмоций в тексте (API)](https://github.com/070705gavrilovaanna/emotions_classification) - LSTM vs Transformer, F1=0.95, API на Hugging Face
 - [Агент для подбора музыки (RAG + ReAct)](https://github.com/070705gavrilovaanna/music_mood) - ReAct-агент, гибридный поиск (FAISS + all-MiniLM-L6-v2), 12 аудио-признаков, GPT-OSS 120B, Gradio
-- [Агент для управления контентом](https://github.com/070705gavrilovaanna/ai_content_manager) - ReAct-агент с 12 инструментами (енерация статей, постов, идей, планов, сохранение в drafts/published, поиск, статистика) и памятью
+- [Агент для управления контентом](https://github.com/070705gavrilovaanna/ai_content_manager) - ReAct-агент с 12 инструментами (генерация статей, постов, идей, планов, сохранение в drafts/published, поиск, статистика) и памятью
 - [Классификация неискренних вопросов Quora](https://github.com/070705gavrilovaanna/quora_questions_classification) - BERT (ROC-AUC 0.965), сравнение с TF-IDF + Logistic Regression
 - [Question Answering with BERT](https://github.com/070705gavrilovaanna/question_answering) - поиск ответов по тексту (SQuAD)
 - [Генерация текста с LSTM и GPT-2](https://github.com/070705gavrilovaanna/text_generation) - сравнение архитектур на корпусе цитат
